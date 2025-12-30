@@ -43,8 +43,10 @@ defaults:
     values:
       layout: "default"
 
-# GitHub repository info (update with your actual repo)
+# GitHub repository info
+# Set show_downloads to false to hide the "View on GitHub" button
+show_downloads: false
 github:
-  is_project_page: true
-  repository_url: https://github.com/ykshim2025/Lecture_student
+  is_project_page: false
+  repository_url: https://github.com/ykshim2013/Lecture_student
   repository_name: Lecture_student
