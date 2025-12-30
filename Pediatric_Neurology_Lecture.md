@@ -1320,5 +1320,3 @@ This lecture material is prepared for medical student education at Korea Univers
 **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
-
-*Document source: Adapted from lecture slides (231023 학생강의용.pptx) with comprehensive updates*
