@@ -77,7 +77,7 @@ Under the following terms:
 
 | Version | Date | Description |
 |---------|------|-------------|
-| 2.0 | 2024-12 | Comprehensive update with ILAE 2022/2025, genetic content, precision medicine |
+| 2.0 | 2025-01 | Comprehensive update with ILAE 2022/2025, genetic content, precision medicine |
 | 1.0 | 2023-10 | Initial lecture materials |
 
 ## Contributing

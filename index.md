@@ -65,4 +65,4 @@ These materials are prepared by the Department of Pediatric Neurology at Korea U
 
 ---
 
-*Last updated: December 2024*
+*Last updated: January 2025*

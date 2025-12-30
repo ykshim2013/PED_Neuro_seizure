@@ -4,7 +4,7 @@
 
 **Korea University Medical Center (KUMC)**
 **Department of Pediatric Neurology**
-**Last Updated: 2024**
+**Last Updated: 2025**
 
 ---
 
@@ -1304,8 +1304,8 @@ This illustrates why genetic diagnosis BEFORE medication selection is critical f
 | Version | Date | Changes |
 |---------|------|---------|
 | 1.0 | 2023-10-23 | Initial student lecture |
-| 2.0 | 2024-12 | Comprehensive update: ILAE 2022/2025, genetic content, precision medicine |
-| 2.1 | 2024-12 | Enhanced visual materials: diagrams, flowcharts, Mermaid charts |
+| 2.0 | 2025-01 | Comprehensive update: ILAE 2022/2025, genetic content, precision medicine |
+| 2.1 | 2025-01 | Enhanced visual materials: diagrams, flowcharts, Mermaid charts |
 
 ---
 
