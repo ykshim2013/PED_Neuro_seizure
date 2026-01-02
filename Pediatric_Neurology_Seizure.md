@@ -361,6 +361,276 @@ flowchart TD
 | **Burst-Suppression** | `∧∧∧___` | Early DEE | Bursts alternating with flat periods |
 | **Photoparoxysmal** | `∧∧∧` | JME, Dravet | Triggered by photic stimulation |
 
+### 4.5 Detailed EEG Pattern Descriptions
+
+> **📚 Visual Learning Resources**: For actual EEG waveform images, refer to the open-access resources listed in Section 4.7
+
+#### 4.5.1 Normal Background Activity by Age
+
+**Neonatal EEG (Term Infant)**
+```
+Characteristics:
+- Discontinuous pattern transitioning to continuous by 44 weeks
+- Trace alternant in quiet sleep (bursts 3-8 sec, interburst 4-8 sec)
+- Anterior slow dysrhythmia (frontal delta)
+- Multifocal sharp transients (normal in neonates)
+- Brush rhythms (beta-delta complexes) - premature marker
+```
+
+**Infant EEG (3-12 months)**
+```
+Characteristics:
+- PDR emerges at 3-4 Hz, gradually increases
+- Central theta activity during wakefulness
+- Sleep spindles develop around 6-8 weeks
+- Vertex waves and K-complexes by 5-6 months
+- Hypnagogic hypersynchrony - HIGH AMPLITUDE theta during drowsiness (NORMAL!)
+```
+
+**Childhood EEG (1-10 years)**
+```
+Characteristics:
+- PDR: [Age + 2] Hz rule (e.g., 5 yr old = 7 Hz minimum)
+- Posterior slow waves of youth (delta mixed with alpha) - NORMAL
+- Prominent drowsy patterns
+- Abundant sleep architecture
+- Hyperventilation response: 3 Hz slowing for up to 1 min after = NORMAL
+```
+
+#### 4.5.2 Epileptiform Patterns - Detailed Descriptions
+
+**3 Hz Spike-and-Wave (Childhood Absence Epilepsy)**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MORPHOLOGY                                                     │
+│  ══════════                                                     │
+│                                                                 │
+│   Spike    Slow wave    Spike    Slow wave                     │
+│     ╱╲      ╭──╮          ╱╲      ╭──╮                          │
+│    ╱  ╲    ╱    ╲        ╱  ╲    ╱    ╲                         │
+│   ╱    ╲──╯      ╰──────╱    ╲──╯      ╰─────                   │
+│                                                                 │
+│   |←─── 333 msec ───→|  (= 3 Hz)                               │
+│                                                                 │
+│  KEY FEATURES:                                                  │
+│  • Frequency: 2.5-4 Hz (typically 3 Hz)                        │
+│  • Amplitude: 200-400 µV                                       │
+│  • Distribution: GENERALIZED, BIFRONTAL maximum                │
+│  • Duration: 4-20 seconds (often 10 sec)                       │
+│  • Onset/Offset: ABRUPT (like turning a switch)                │
+│  • Activation: Hyperventilation, drowsiness                    │
+│  • Inhibition: Eye opening, alerting, sleep                    │
+│  • Background: NORMAL between discharges                       │
+│                                                                 │
+│  ⚠️ RED FLAGS suggesting NOT typical CAE:                      │
+│  • Asymmetry or focal features                                 │
+│  • Abnormal background                                         │
+│  • Polyspikes at onset                                         │
+│  • Very slow (<2.5 Hz) frequency                              │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Centrotemporal Spikes (SLECTS/Rolandic Epilepsy)**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MORPHOLOGY                                                     │
+│  ══════════                                                     │
+│                                                                 │
+│   Channel C3-P3:     ╱╲                                        │
+│                     ╱  ╲____    ← Negative spike                │
+│                                                                 │
+│   Channel C4-P4:        ╱╲                                     │
+│                     ___╱  ╲    ← Positive deflection           │
+│                                  (horizontal dipole!)           │
+│                                                                 │
+│  KEY FEATURES:                                                  │
+│  • Location: C3/C4, T3/T4 (centrotemporal region)             │
+│  • Morphology: HIGH amplitude, blunt spike with slow wave     │
+│  • Amplitude: Often >100-200 µV                                │
+│  • HORIZONTAL DIPOLE: negative at C, positive at F            │
+│  • State: DRAMATICALLY increased in sleep (10x)                │
+│  • May be unilateral OR bilateral (independent)                │
+│  • Background: NORMAL                                          │
+│                                                                 │
+│  💡 CLINICAL PEARL:                                            │
+│  Spikes may persist 1-2 years AFTER clinical seizures stop    │
+│  Do NOT chase the EEG - treat the patient!                     │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Hypsarrhythmia (Infantile Spasms/West Syndrome)**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MORPHOLOGY                                                     │
+│  ══════════                                                     │
+│                                                                 │
+│    ∧   ∿    ╱╲        ∧∧     ≋     ∧                           │
+│   ╱ ╲ ╱ ∿  ╱  ╲  ∿   ╱  ╲   ╱ ≋   ╱ ╲   ∿                     │
+│  ╱   ∨   ╲╱    ╲∿ ╲_╱    ╲_╱   ≋_╱   ╲_╱ ∿                    │
+│  ∿∿                ∧        ╱╲                                  │
+│          CHAOTIC, HIGH AMPLITUDE, ASYNCHRONOUS                  │
+│                                                                 │
+│  KEY FEATURES:                                                  │
+│  • Amplitude: Very HIGH (>200-300 µV, often 500-1000 µV)      │
+│  • Mixture: Spikes + sharp waves + slow waves                  │
+│  • Pattern: CHAOTIC, disorganized                              │
+│  • Synchrony: ASYNCHRONOUS (hemispheres not in sync)           │
+│  • Continuous vs Modified: True vs some organization           │
+│  • During spasm: May see electrodecrement or fast rhythm       │
+│  • Background: SEVERELY abnormal (NO normal activity)          │
+│                                                                 │
+│  VARIANTS:                                                      │
+│  • Modified hypsarrhythmia: Some synchrony/organization        │
+│  • Asymmetric: Suggests focal/structural etiology              │
+│                                                                 │
+│  🚨 URGENCY: Recognize and treat promptly!                     │
+│  Delayed treatment = worse developmental outcome               │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Slow Spike-and-Wave (Lennox-Gastaut Syndrome)**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MORPHOLOGY                                                     │
+│  ══════════                                                     │
+│                                                                 │
+│   Spike      Slow wave (prolonged)                             │
+│     ╱╲      ╭────────╮                                         │
+│    ╱  ╲    ╱          ╲                                        │
+│   ╱    ╲──╯            ╰────────                               │
+│                                                                 │
+│   |←───── 400-600 msec ─────→|  (= 1.5-2.5 Hz)                │
+│                                                                 │
+│  KEY FEATURES:                                                  │
+│  • Frequency: 1.5-2.5 Hz (SLOW compared to CAE)               │
+│  • Distribution: Generalized, often frontal maximum            │
+│  • Runs: LONG runs during NREM sleep                          │
+│  • Background: ABNORMAL (slow, disorganized)                   │
+│  • Evolution: Often evolves from prior hypsarrhythmia          │
+│                                                                 │
+│  SLEEP ACTIVATION:                                             │
+│  • Generalized paroxysmal fast activity (GPFA)                │
+│  • 10-25 Hz, most prominent in frontal regions                │
+│  • Highly characteristic of LGS                                │
+│                                                                 │
+│  ⚠️ VS CHILDHOOD ABSENCE:                                      │
+│  LGS: <2.5 Hz, abnormal background, polyspikes                │
+│  CAE: ~3 Hz, normal background, no polyspikes                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+**Burst-Suppression Pattern (Early Infantile DEE)**
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  MORPHOLOGY                                                     │
+│  ══════════                                                     │
+│                                                                 │
+│   Burst (1-3 sec)         Suppression (3-10 sec)               │
+│   ∧∧∧∨∧∧∧∨               _________________________             │
+│   High amp               Flat or <10 µV                         │
+│   Mixed freq                                                    │
+│                                                                 │
+│  KEY FEATURES:                                                  │
+│  • Burst: High amplitude (150-350 µV), mixed frequencies       │
+│  • Suppression: Very low (<10-25 µV), near-isoelectric        │
+│  • Periodicity: 3-20 second cycle                              │
+│  • Reactivity: ABSENT to stimuli                               │
+│  • Synchrony: May be synchronous or asynchronous               │
+│                                                                 │
+│  SEEN IN:                                                       │
+│  • Ohtahara syndrome (EIEE)                                    │
+│  • Early myoclonic encephalopathy                              │
+│  • Severe hypoxic-ischemic encephalopathy                      │
+│  • STXBP1, KCNQ2, SCN2A mutations                              │
+│                                                                 │
+│  PROGNOSIS: Generally poor, indicates severe brain dysfunction │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 4.6 EEG Interpretation Pearls
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                   🎯 EEG INTERPRETATION PEARLS                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  1. ALWAYS assess background FIRST                             │
+│     • Normal background = better prognosis                     │
+│     • Abnormal background = structural/metabolic concern       │
+│                                                                 │
+│  2. AGE MATTERS                                                │
+│     • PDR formula: Age + 2 = minimum Hz                        │
+│     • Neonatal patterns are DIFFERENT from older children      │
+│     • Trace alternant is NORMAL in neonates                    │
+│                                                                 │
+│  3. STATE MATTERS                                              │
+│     • Many epileptiform patterns INCREASE in sleep             │
+│     • Always record sleep if possible                          │
+│     • SLECTS: 10x more spikes in sleep                        │
+│                                                                 │
+│  4. DON'T OVER-READ                                            │
+│     • Posterior slow of youth = NORMAL                         │
+│     • Hypnagogic hypersynchrony = NORMAL                      │
+│     • Wicket spikes = NORMAL variant                          │
+│     • Rhythmic mid-temporal theta (RMTD) = NORMAL             │
+│                                                                 │
+│  5. CLINICAL CORRELATION IS KEY                                │
+│     • EEG alone does NOT diagnose epilepsy                    │
+│     • Normal EEG does NOT exclude epilepsy                    │
+│     • Spikes without seizures ≠ epilepsy                      │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 4.7 Open-Access EEG Educational Resources
+
+> **⚖️ Note**: The following resources are freely available for educational purposes. Always verify current licensing terms before using images in your own materials.
+
+#### Free Online EEG Atlases and Databases
+
+| Resource | Description | Access |
+|----------|-------------|--------|
+| **American Epilepsy Society EEG Atlas** | Comprehensive introductory text and atlas covering normal and abnormal findings in adults, children, and infants. CC BY-NC-SA 4.0 licensed. | [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK390354/) |
+| **NCBI - Developmental EEG Chapter** | Detailed coverage of premature, neonatal, infant, and childhood EEG patterns | [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK390356/) |
+| **NCBI - EEG in Epilepsies** | Epileptiform patterns and interpretation | [NCBI Bookshelf](https://www.ncbi.nlm.nih.gov/books/NBK390347/) |
+| **Wikimedia Commons EEG Category** | Various EEG images under Creative Commons licenses | [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Electroencephalography) |
+
+#### EEG Data Repositories (For Research/Advanced Learning)
+
+| Database | Description | Access |
+|----------|-------------|--------|
+| **Child Mind Institute MIPDB** | Pediatric EEG database, CC BY-NC-SA | [CMI EEG](http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/eeg.html) |
+| **SCCN/UCSD EEG Data** | Publicly available EEG datasets | [SCCN Database](https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html) |
+| **PhysioNet** | EEG datasets under neuroelectric tag | [PhysioNet](https://physionet.org/) |
+| **OpenNeuro** | Open sharing of neuroimaging data including EEG | [OpenNeuro](https://openneuro.org/) |
+| **GitHub EEG Datasets List** | Curated list of public EEG datasets | [GitHub - meagmohit/EEG-Datasets](https://github.com/meagmohit/EEG-Datasets) |
+
+#### Recommended Learning Sequence
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│              📚 SUGGESTED EEG LEARNING PATHWAY                  │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  STEP 1: Read the AES EEG Atlas (NCBI)                        │
+│          → Understand normal patterns first                    │
+│                                                                 │
+│  STEP 2: Study developmental EEG chapter                       │
+│          → Learn age-dependent variations                      │
+│                                                                 │
+│  STEP 3: Review epileptiform patterns chapter                  │
+│          → Associate patterns with syndromes                   │
+│                                                                 │
+│  STEP 4: Practice with real data                               │
+│          → Child Mind Institute database                       │
+│          → OpenNeuro pediatric datasets                        │
+│                                                                 │
+│  STEP 5: Clinical correlation                                  │
+│          → Always link EEG to clinical presentation           │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
 ---
 
 ## 5. Seizures in the Genetic Era
