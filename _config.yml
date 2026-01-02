@@ -48,5 +48,5 @@ defaults:
 show_downloads: false
 github:
   is_project_page: false
-  repository_url: https://github.com/ykshim2013/Lecture_student
-  repository_name: Lecture_student
+  repository_url: https://github.com/ykshim2013/PED_Neuro_seizure
+  repository_name: PED_Neuro_seizure
