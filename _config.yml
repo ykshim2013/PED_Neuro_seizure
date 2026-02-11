@@ -1,15 +1,19 @@
-# GitHub Pages Configuration
-# Using Jekyll with a clean theme for medical education content
+# Site Configuration for Jekyll + Cloudflare Pages
+# Also compatible with GitHub Pages
 
 # Site settings
 title: Pediatric Neurology - Seizure
 description: Comprehensive educational materials for pediatric neurology - seizures, epilepsy, and precision medicine
 author: YK Shim
+url: "" # Will be set by Cloudflare/GitHub Pages
+baseurl: "" # Root of domain
 
-# Theme settings
+# Theme settings - Cayman theme
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
@@ -19,15 +23,25 @@ kramdown:
   input: GFM
   hard_wrap: false
   syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 # Exclude files from build
 exclude:
   - "*.pptx"
   - ".claude"
+  - ".playwright-mcp"
   - "Gemfile"
   - "Gemfile.lock"
   - "node_modules"
   - "vendor"
+  - ".ruby-version"
+  - "README.md"
+
+# Include specific files
+include:
+  - _pages
 
 # Collections (if adding more lectures later)
 collections:
@@ -43,8 +57,15 @@ defaults:
     values:
       layout: "default"
 
-# GitHub repository info
-# Set show_downloads to false to hide the "View on GitHub" button
+# SEO and social
+twitter:
+  card: summary
+social:
+  name: YK Shim
+  links:
+    - https://github.com/ykshim2013
+
+# GitHub repository info (for theme compatibility)
 show_downloads: false
 github:
   is_project_page: false
