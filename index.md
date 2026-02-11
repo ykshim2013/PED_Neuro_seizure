@@ -9,6 +9,16 @@ Comprehensive educational materials for pediatric neurology, focusing on **seizu
 
 Designed for medical students and residents by **YK Shim**, Division of Pediatric Neurology, Korea University College of Medicine.
 
+### Mobile Access
+
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://pedneuro.pages.dev/" alt="QR Code - Mobile Access" />
+  <br/>
+  <em>Scan to access on your mobile device</em>
+  <br/>
+  <a href="https://pedneuro.pages.dev/">pedneuro.pages.dev</a>
+</p>
+
 ---
 
 ## Course Materials

@@ -1,14 +1,18 @@
 # Pediatric Neurology - Seizure
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare-Pages-orange)](https://pedneuro.pages.dev/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue)](https://ykshim2013.github.io/PED_Neuro_seizure/)
 
 ## View Online
 
-Visit the [GitHub Pages site](https://ykshim2013.github.io/PED_Neuro_seizure/) for the best reading experience.
+| Platform | URL |
+|----------|-----|
+| **Cloudflare Pages** | [pedneuro.pages.dev](https://pedneuro.pages.dev/) |
+| **GitHub Pages** | [ykshim2013.github.io/PED_Neuro_seizure](https://ykshim2013.github.io/PED_Neuro_seizure/) |
 
 ### QR Code for Mobile Access
-![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://ykshim2013.github.io/PED_Neuro_seizure/)
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=https://pedneuro.pages.dev/)
 
 *Scan to access the lecture materials on your mobile device*
 
