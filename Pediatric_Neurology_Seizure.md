@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pediatric Neurology - Seizure
+---
+
 # Pediatric Neurology - Seizure
 ## A Comprehensive Guide for Medical Students
 

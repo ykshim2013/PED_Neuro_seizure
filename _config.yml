@@ -5,8 +5,8 @@
 title: Pediatric Neurology - Seizure
 description: Comprehensive educational materials for pediatric neurology - seizures, epilepsy, and precision medicine
 author: YK Shim
-url: "" # Will be set by Cloudflare/GitHub Pages
-baseurl: "" # Root of domain
+url: "https://ykshim2013.github.io"
+baseurl: "/PED_Neuro_seizure"
 
 # Theme settings - Cayman theme
 remote_theme: pages-themes/cayman@v0.2.0
@@ -68,6 +68,6 @@ social:
 # GitHub repository info (for theme compatibility)
 show_downloads: false
 github:
-  is_project_page: false
+  is_project_page: true
   repository_url: https://github.com/ykshim2013/PED_Neuro_seizure
   repository_name: PED_Neuro_seizure
